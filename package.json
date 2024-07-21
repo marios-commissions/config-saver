@@ -1,0 +1,12 @@
+{
+  "name": "config-saver",
+  "module": "index.js",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "dependencies": {
+    "cross-zip": "^4.0.1",
+    "virtualfs": "^2.2.0",
+    "zip-lib": "^1.0.4"
+  }
+}
